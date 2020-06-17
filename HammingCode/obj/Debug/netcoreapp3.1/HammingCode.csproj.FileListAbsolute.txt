@@ -1,0 +1,13 @@
+C:\Users\German\source\repos\Lab567\HammingCode\bin\Debug\netcoreapp3.1\HammingCode.exe
+C:\Users\German\source\repos\Lab567\HammingCode\bin\Debug\netcoreapp3.1\HammingCode.deps.json
+C:\Users\German\source\repos\Lab567\HammingCode\bin\Debug\netcoreapp3.1\HammingCode.runtimeconfig.json
+C:\Users\German\source\repos\Lab567\HammingCode\bin\Debug\netcoreapp3.1\HammingCode.runtimeconfig.dev.json
+C:\Users\German\source\repos\Lab567\HammingCode\bin\Debug\netcoreapp3.1\HammingCode.dll
+C:\Users\German\source\repos\Lab567\HammingCode\bin\Debug\netcoreapp3.1\HammingCode.pdb
+C:\Users\German\source\repos\Lab567\HammingCode\obj\Debug\netcoreapp3.1\HammingCode.csprojAssemblyReference.cache
+C:\Users\German\source\repos\Lab567\HammingCode\obj\Debug\netcoreapp3.1\HammingCode.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\Lab567\HammingCode\obj\Debug\netcoreapp3.1\HammingCode.AssemblyInfo.cs
+C:\Users\German\source\repos\Lab567\HammingCode\obj\Debug\netcoreapp3.1\HammingCode.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\Lab567\HammingCode\obj\Debug\netcoreapp3.1\HammingCode.dll
+C:\Users\German\source\repos\Lab567\HammingCode\obj\Debug\netcoreapp3.1\HammingCode.pdb
+C:\Users\German\source\repos\Lab567\HammingCode\obj\Debug\netcoreapp3.1\HammingCode.genruntimeconfig.cache

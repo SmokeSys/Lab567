@@ -1,0 +1,13 @@
+C:\Users\German\source\repos\Lab567\Lab567\bin\Debug\netcoreapp3.1\LZ77.exe
+C:\Users\German\source\repos\Lab567\Lab567\bin\Debug\netcoreapp3.1\LZ77.deps.json
+C:\Users\German\source\repos\Lab567\Lab567\bin\Debug\netcoreapp3.1\LZ77.runtimeconfig.json
+C:\Users\German\source\repos\Lab567\Lab567\bin\Debug\netcoreapp3.1\LZ77.runtimeconfig.dev.json
+C:\Users\German\source\repos\Lab567\Lab567\bin\Debug\netcoreapp3.1\LZ77.dll
+C:\Users\German\source\repos\Lab567\Lab567\bin\Debug\netcoreapp3.1\LZ77.pdb
+C:\Users\German\source\repos\Lab567\Lab567\obj\Debug\netcoreapp3.1\LZ77.csprojAssemblyReference.cache
+C:\Users\German\source\repos\Lab567\Lab567\obj\Debug\netcoreapp3.1\LZ77.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\Lab567\Lab567\obj\Debug\netcoreapp3.1\LZ77.AssemblyInfo.cs
+C:\Users\German\source\repos\Lab567\Lab567\obj\Debug\netcoreapp3.1\LZ77.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\Lab567\Lab567\obj\Debug\netcoreapp3.1\LZ77.dll
+C:\Users\German\source\repos\Lab567\Lab567\obj\Debug\netcoreapp3.1\LZ77.pdb
+C:\Users\German\source\repos\Lab567\Lab567\obj\Debug\netcoreapp3.1\LZ77.genruntimeconfig.cache

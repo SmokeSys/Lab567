@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1e7+W6SrTAGCC7ao1tvIB8FXQ0eXcN9oimEbkTXt4nX2EkRvakVdsWtRtoeMcm4ofD7hIm4iuNMXjB4btST8ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\German\\source\\repos\\Lab567\\HammingCode\\HammingCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\German\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
